@@ -1,5 +1,5 @@
 git checkout main
 git pull
-git checkout mobiledevicesupport
+git checkout develop
 git pull
 git merge master
