@@ -6,6 +6,7 @@ specialMethodChangedABugFix
 methodB
 method7
 methodDFromDevelop
+NewMethodFromDevelop
 method6
 method7ChangedInDevelopment
 method10
