@@ -12,3 +12,4 @@ method6
 method7ChangedInDevelopment
 method10
 TestAutoMerge1
+TestAutoMerge2
