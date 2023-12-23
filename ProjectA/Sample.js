@@ -11,3 +11,4 @@ NewMethodFromDevelop
 method6
 method7ChangedInDevelopmentBug3Fix
 method10
+TestAutoMerge1
