@@ -2,7 +2,7 @@ mainaddedline1
 method1ABC
 method2V2345
 method3
-methodABC
+methodABCBug1Fix
 specialMethodChangedABugFix
 methodB
 method7
