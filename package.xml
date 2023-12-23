@@ -524,5 +524,9 @@
         <members>*</members>
         <name>Settings</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Settings2FromMain</name>
+    </types>
     <version>44.0</version>
 </Package>
