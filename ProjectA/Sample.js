@@ -9,5 +9,5 @@ method7
 methodDFromDevelopBug2Fix
 NewMethodFromDevelop
 method6
-method7ChangedInDevelopment
+method7ChangedInDevelopmentBug3Fix
 method10
