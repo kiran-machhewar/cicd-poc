@@ -5,6 +5,10 @@
         <name>ActionLinkGroupTemplate</name>
     </types>
     <types>
+      <members>*</members>
+      <name>ActionLinkGroupTemplate2FromMain</name>
+    </types>
+    <types>
         <members>*</members>
         <name>AnalyticSnapshot</name>
     </types>
