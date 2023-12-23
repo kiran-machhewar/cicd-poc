@@ -517,6 +517,10 @@
         <name>WorkflowTask</name>
     </types>
     <types>
+      <members>*</members>
+        <name>WorkflowTask2FromDevelop</name>
+    </types>
+    <types>
         <members>*</members>
         <name>Settings</name>
     </types>
