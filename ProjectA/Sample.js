@@ -2,7 +2,7 @@ method1ABC
 method2V2345
 method3
 methodABC
-specialMethodChanged
+specialMethodChangedABugFix
 methodB
 method7
 methodDFromDevelop
