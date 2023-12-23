@@ -1,3 +1,4 @@
 methodA
+specialMethod
 methodB
 methodC
