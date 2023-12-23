@@ -3,3 +3,6 @@ specialMethod
 methodB
 methodC
 methodDFromDevelop
+method6
+method7
+method8
