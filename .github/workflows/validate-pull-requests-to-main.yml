@@ -16,3 +16,6 @@ jobs:
       run: |
           echo "Validate pull request:"
           echo "${{ github.event.pull_request.head.sha }}"
+          git checkout develop
+          git merge --no-commit --no-ff "${{ github.event.pull_request.head.sha }}"
+          echo "Status code of git merge $?"
