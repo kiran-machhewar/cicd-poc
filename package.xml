@@ -509,6 +509,10 @@
         <name>WorkflowOutboundMessage</name>
     </types>
     <types>
+      <members>*</members>
+      <name>WorkflowOutboundMessage2FromDevelop</name>
+    </types>
+    <types>
         <members>*</members>
         <name>WorkflowRule</name>
     </types>
