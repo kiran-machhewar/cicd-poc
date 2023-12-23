@@ -6,7 +6,7 @@ methodABCBug1Fix
 specialMethodChangedABugFix
 methodB
 method7
-methodDFromDevelop
+methodDFromDevelopBug2Fix
 NewMethodFromDevelop
 method6
 method7ChangedInDevelopment
