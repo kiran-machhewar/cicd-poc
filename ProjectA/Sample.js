@@ -2,6 +2,6 @@ method11
 method2V234
 method3
 methodAB
-specialMethod
+specialMethodChanged
 methodB
 method7
