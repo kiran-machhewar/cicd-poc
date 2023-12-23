@@ -4,7 +4,7 @@ method3
 methodA
 specialMethod
 methodB
-methodC
+method7
 methodDFromDevelop
 method6
 method7
