@@ -1,4 +1,5 @@
 methodA
+specialMethod
 methodB
 methodC
 methodDFromDevelop
