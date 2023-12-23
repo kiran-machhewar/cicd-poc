@@ -1,7 +1,7 @@
 method1ABC
 method2V234
 method3
-methodA
+methodABC
 specialMethod
 methodB
 method7
