@@ -15,3 +15,4 @@ TestAutoMerge1
 TestAutoMerge2
 Feature2
 Feature1
+AddingnewFeartureasfeature3
