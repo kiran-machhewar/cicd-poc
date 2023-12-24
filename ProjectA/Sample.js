@@ -14,3 +14,4 @@ method10
 TestAutoMerge1
 TestAutoMerge2
 Feature1
+AddingnewFeartureasfeature3
